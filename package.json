@@ -1,0 +1,14 @@
+{
+  "name": "imageserver",
+  "version": "1.0.0",
+  "description": "collects image and shows it on the webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umer Naeem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
